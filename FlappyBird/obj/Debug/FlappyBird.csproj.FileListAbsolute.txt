@@ -1,0 +1,11 @@
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe.config
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.exe
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\bin\Debug\FlappyBird.pdb
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csprojAssemblyReference.cache
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.exe
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.pdb
+C:\Users\willc\MSSA2021\Test Projects\Flappy Bird\FlappyBird\obj\Debug\FlappyBird.Restart.resources
