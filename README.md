@@ -1,1 +1,1 @@
-Practice Project for the game "FlappyBird". Not yet compplete. Working on a restart function. Update coming soon! 
+Practice Project for the infamous game "FlappyBird". Not yet complete. Working on a restart function. Update coming soon! 
