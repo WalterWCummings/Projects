@@ -1,1 +1,1 @@
-Practice Project for the infamous game "FlappyBird". Not yet complete. Working on a restart function. Update coming soon! 
+This repository is built for projects completed within the MSSA program as well as personal projects. Check frequently for updates! 
